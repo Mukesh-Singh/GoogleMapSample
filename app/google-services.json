@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "76845243381",
+    "firebase_url": "https://tokyo-crane-158107.firebaseio.com",
+    "project_id": "tokyo-crane-158107",
+    "storage_bucket": "tokyo-crane-158107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76845243381:android:dd050878a2246f60",
+        "android_client_info": {
+          "package_name": "map.exaple.com.googlemapsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76845243381-5b8v4130a2e0l59q4v4mcsqt34q8fqcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5q9CFSuKOyxcvadSHe7jtOngqM4g3has"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
